@@ -1,4 +1,4 @@
 # hello-world
 introduction to GitHub
-
-hello there just getting used to git :)
+hi there,
+i am gettting into this :)
